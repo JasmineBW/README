@@ -1,7 +1,7 @@
 Original App Design Project - README Template
 ===
 
-# READ.ME
+# Read.me
 
 ## Table of Contents
 
