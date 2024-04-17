@@ -51,29 +51,32 @@ Read.me is a mobile application that combines the best features of Wattpad and t
 
 ### 2. Screen Archetypes
 
-- [ ] [list first screen here]
-* [list associated required story here]
-* ...
-list second screen here]
-* [list associated required story here]
-* ...
+- [ ] Login
+- [ ] Register
+- [ ] Home Feed (Book Library)
+- [ ] Book Details
+- [ ] Reading View
+- [ ] Comments Section
+- [ ] User Profile
+- [ ] Chat Room
 
 ### 3. Navigation
 
 **Tab Navigation** (Tab to Screen)
 
-* [fill out your first tab]
-* [fill out your second tab]
-* [fill out your third tab]
+* Home Feed
+* Profile
+* Chat
 
 **Flow Navigation** (Screen to Screen)
 
-- [ ] [list first screen here]
-* [list screen navigation here]
-* ...
-- [ ] [list second screen here]
-* [list screen navigation here]
-* ...
+- [ ] Login -> Home Feed
+- [ ] Register -> Home Feed
+- [ ] Home Feed -> Book Details
+- [ ] Book Details -> Reading View
+- [ ] Reading View -> Comments Section
+- [ ] Comments Section -> Reply to Comment
+
 
 ## Wireframes
 
