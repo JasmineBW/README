@@ -16,8 +16,6 @@ Original App Design Project - README Template
 Read.me is a mobile application that combines the best features of Wattpad and traditional ebook readers. It offers users the opportunity to read published, licensed books while engaging with a vibrant community of readers. With Read.me, users can comment on select lines of the book, reply to comments, upvote insightful remarks, like and dislike other users' comments, and submit reviews. Additionally, the app allows users to initiate conversations with fellow readers based on their comments or book reviews.
 
 ### App Evaluation
-
-[Evaluation of your app across the following attributes]
 - **Category:** Productivity
 
 - **Mobile:** Read.me is optimized for mobile devices, offering users a seamless reading experience. The app leverages mobile features such as swipe gestures for navigation and real-time updates for comments and replies. Users can also use their device's camera to scan book barcodes for easy access to their favorite reads.
@@ -36,13 +34,20 @@ Read.me is a mobile application that combines the best features of Wattpad and t
 
 **Required Must-have Stories**
 
-* [fill in your required user stories here]
-* ...
+* Users can create an account and log in.
+* Users can browse a library of published books.
+* Users can read books and highlight/select text to leave comments.
+* Users can reply to comments left by others.
+* Users can upvote or downvote comments.
+* Users can submit reviews for books.
+* Users can initiate chats with other users based on book discussions.
+
 
 **Optional Nice-to-have Stories**
 
-* [fill in your required user stories here]
-* ...
+* Users can follow other users and receive notifications about their activity.
+* Users can join book clubs or reading groups within the app.
+* Users can connect to other social media platforms.
 
 ### 2. Screen Archetypes
 
