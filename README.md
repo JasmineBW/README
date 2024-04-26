@@ -81,7 +81,7 @@ Read.me is a mobile application that combines the best features of Wattpad and t
 ## Wireframes
 
 [Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+<img src="https://www.icloud.com/iclouddrive/0eejqYev_QDg9DPOxQHG7zcAQ#IMG_5227" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
 
