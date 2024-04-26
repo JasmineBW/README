@@ -1,3 +1,0 @@
-PRODUCT_BUNDLE_IDENTIFIER = com.example.read.me-staging
-SERVER_ENVIRONMENT = staging
-SERVER_ENVIRONMENT_SUFFIX = -staging
