@@ -35,13 +35,17 @@ class ViewController: UIViewController, UITableViewDataSource {
         return cell
     }
     
-    
-    
-    
     override func viewDidLoad() {
         super.viewDidLoad()
         tableView.dataSource = self
         library = createMockBookData()
+    }
+    
+    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
+        guard let selectedIndexPath = tableView.indexPathForSelectedRow else { return }
+        let  selectedBook = library[selectedIndexPath.row]
+        guard let detailViewController = segue.destination as? DetailViewController else { return }
+        detailViewController.book = selectedBook
     }
 
 
