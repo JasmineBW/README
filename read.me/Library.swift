@@ -14,8 +14,8 @@ import Foundation
 struct Book {
     let title: String
     let overview: String
-    let posterPath: URL
-    let bookContents: [String]
+    let poster: String
+    let bookContents: [[String]]
 }
 
 //refactored from a struct conforming to an api request to one used to create mock data
